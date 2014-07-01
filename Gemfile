@@ -43,3 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# gems that I added
+gem 'simple_form'
+gem 'devise'
